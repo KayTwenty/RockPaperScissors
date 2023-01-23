@@ -1,16 +1,22 @@
-<p align="center">
-  <a href="https://github.com/KayTwenty/RockPaperScissors">
-    <img src="https://goodday451999.github.io/Rock-Paper-Scissors-Neo/images/stone.png" alt="Logo" width="150" height="150">
-  </a>
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://goodday451999.github.io/Rock-Paper-Scissors-Neo/images/stone.png">
 
-  <h1 align="center">Rock Paper Scissors</h1>
-  <p align="center">
-  <img src="https://img.shields.io/github/last-commit/KayTwenty/RockPaperScissors?style=for-the-badge" alt="Commit"/>
-  <img src="https://img.shields.io/github/license/KayTwenty/RockPaperScissors?style=for-the-badge" alt="License"/>
-  </p>
-  <p align="center">
-    Rock Paper Scissors in NetBeans Java made for ICS4UI.
-    <br />
-    <a href="https://github.com/KayTwenty/RockPaperScissors/releases">Check out releases!</a>
-  </p>
-</p>
+# Rock Paper Scissors
+
+> ✂ Rock Paper Scissors in NetBeans Java made for ICS4UI
+> <br><img src="https://img.shields.io/github/last-commit/KayTwenty/RockPaperScissors?style=for-the-badge" alt="Commit"/> <img src="https://img.shields.io/github/license/KayTwenty/RockPaperScissors?style=for-the-badge" alt="License"/> <br>
+
+---
+
+## 💡 Why I made this?
+
+It assigned as a school project for ICS4U1. It was testing our fair knowledge of Java GUIs with the Java Swing library
+
+## 🔦 How to use
+
+- Go to the releases page and click the latest one to download
+- Extract the zip and double click on the jar file
+- Same default rules apply for when testing Rock Paper Scissors
+
+## 📋 License
+
+This project is licensed under the MIT. See the [LICENSE](https://github.com/KayTwenty/RockPaperScissors/blob/main/LICENSE) file for details
