@@ -2,7 +2,7 @@
 
 # Rock Paper Scissors
 
-> ✂ Rock Paper Scissors in NetBeans Java made for ICS4UI
+> ✂ Rock Paper Scissors in NetBeans Java made for ICS4U1
 > <br><img src="https://img.shields.io/github/last-commit/KayTwenty/RockPaperScissors?style=for-the-badge" alt="Commit"/> <img src="https://img.shields.io/github/license/KayTwenty/RockPaperScissors?style=for-the-badge" alt="License"/> <br>
 
 ---
